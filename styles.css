@@ -298,9 +298,9 @@ p {
 
 .hero-erica {
   position: absolute;
-  left: -2.5rem;
-  bottom: 1rem;
-  width: min(42%, 260px);
+  left: -3rem;
+  bottom: 0.25rem;
+  width: min(48%, 310px);
   z-index: 3;
   pointer-events: none;
 }
@@ -763,9 +763,9 @@ p {
   }
 
   .hero-erica {
-    left: -0.5rem;
-    bottom: 0.5rem;
-    width: min(46%, 190px);
+    left: -0.75rem;
+    bottom: 0.25rem;
+    width: min(52%, 220px);
   }
 
   .hero-card-main {
