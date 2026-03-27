@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" role="img" aria-labelledby="title desc">
+  <title id="title">Closet placeholder</title>
+  <desc id="desc">Warm-toned closet illustration placeholder for a home organizing website.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6efe7"/>
+      <stop offset="100%" stop-color="#eadfd3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#bg)"/>
+  <rect x="120" y="120" width="960" height="1260" rx="48" fill="#fffaf5"/>
+  <rect x="220" y="220" width="760" height="70" rx="35" fill="#d5c1b3"/>
+  <rect x="220" y="320" width="760" height="18" rx="9" fill="#b68b7e"/>
+  <rect x="220" y="360" width="220" height="850" rx="26" fill="#efe1d3"/>
+  <rect x="490" y="360" width="220" height="850" rx="26" fill="#f3e8dc"/>
+  <rect x="760" y="360" width="220" height="850" rx="26" fill="#efe1d3"/>
+  <g fill="#a76d67">
+    <path d="M275 410h110l-55 100z"/>
+    <path d="M545 410h110l-55 100z"/>
+    <path d="M815 410h110l-55 100z"/>
+  </g>
+  <g fill="#bd9286">
+    <rect x="250" y="585" width="160" height="44" rx="18"/>
+    <rect x="520" y="585" width="160" height="44" rx="18"/>
+    <rect x="790" y="585" width="160" height="44" rx="18"/>
+  </g>
+  <g fill="#b7c0ad">
+    <rect x="245" y="680" width="170" height="120" rx="22"/>
+    <rect x="515" y="680" width="170" height="120" rx="22"/>
+    <rect x="785" y="680" width="170" height="120" rx="22"/>
+  </g>
+  <g fill="#dcb9ac">
+    <rect x="245" y="840" width="170" height="120" rx="22"/>
+    <rect x="515" y="840" width="170" height="120" rx="22"/>
+    <rect x="785" y="840" width="170" height="120" rx="22"/>
+  </g>
+  <g fill="#d3c2b3">
+    <rect x="245" y="1000" width="170" height="120" rx="22"/>
+    <rect x="515" y="1000" width="170" height="120" rx="22"/>
+    <rect x="785" y="1000" width="170" height="120" rx="22"/>
+  </g>
+  <text x="600" y="1295" fill="#7d655a" font-family="Arial, sans-serif" font-size="44" text-anchor="middle">Replace with your closet photo</text>
+</svg>

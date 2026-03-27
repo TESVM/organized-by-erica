@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Shelf placeholder</title>
+  <desc id="desc">Warm shelving illustration placeholder for a professional organizer website.</desc>
+  <rect width="1200" height="900" fill="#f5eee6"/>
+  <rect x="90" y="90" width="1020" height="720" rx="40" fill="#fffaf5"/>
+  <rect x="190" y="180" width="820" height="28" rx="14" fill="#b58c74"/>
+  <rect x="190" y="370" width="820" height="28" rx="14" fill="#b58c74"/>
+  <rect x="190" y="560" width="820" height="28" rx="14" fill="#b58c74"/>
+  <g fill="#a66d67">
+    <rect x="220" y="110" width="110" height="70" rx="18"/>
+    <rect x="870" y="110" width="110" height="70" rx="18"/>
+  </g>
+  <g fill="#dcb9ac">
+    <rect x="230" y="220" width="110" height="110" rx="22"/>
+    <rect x="390" y="220" width="160" height="110" rx="22"/>
+    <rect x="600" y="220" width="160" height="110" rx="22"/>
+    <rect x="810" y="220" width="140" height="110" rx="22"/>
+  </g>
+  <g fill="#b7c0ad">
+    <rect x="230" y="410" width="150" height="110" rx="22"/>
+    <rect x="430" y="410" width="120" height="110" rx="22"/>
+    <rect x="600" y="410" width="170" height="110" rx="22"/>
+    <rect x="820" y="410" width="130" height="110" rx="22"/>
+  </g>
+  <g fill="#d5c1b3">
+    <rect x="230" y="600" width="180" height="110" rx="22"/>
+    <rect x="460" y="600" width="140" height="110" rx="22"/>
+    <rect x="650" y="600" width="130" height="110" rx="22"/>
+    <rect x="830" y="600" width="120" height="110" rx="22"/>
+  </g>
+  <text x="600" y="790" fill="#7d655a" font-family="Arial, sans-serif" font-size="40" text-anchor="middle">Replace with your organization photo</text>
+</svg>

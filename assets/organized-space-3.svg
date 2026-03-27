@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Drop zone placeholder</title>
+  <desc id="desc">Drop zone and home systems placeholder for an organizing website gallery.</desc>
+  <rect width="1200" height="900" fill="#efe5db"/>
+  <rect x="120" y="110" width="960" height="680" rx="40" fill="#fffaf6"/>
+  <rect x="220" y="220" width="760" height="370" rx="34" fill="#f4ece4"/>
+  <rect x="260" y="270" width="220" height="270" rx="24" fill="#b7c0ad"/>
+  <rect x="510" y="270" width="200" height="120" rx="20" fill="#dcb9ac"/>
+  <rect x="740" y="270" width="200" height="120" rx="20" fill="#a66d67"/>
+  <rect x="510" y="420" width="430" height="120" rx="20" fill="#d8c4b7"/>
+  <circle cx="340" cy="635" r="55" fill="#a66d67"/>
+  <rect x="460" y="610" width="220" height="40" rx="20" fill="#b58c74"/>
+  <rect x="710" y="610" width="230" height="40" rx="20" fill="#b7c0ad"/>
+  <text x="600" y="735" fill="#7d655a" font-family="Arial, sans-serif" font-size="40" text-anchor="middle">Replace with your functional space photo</text>
+</svg>
