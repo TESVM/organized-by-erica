@@ -477,22 +477,35 @@
             </div>
           </div>
 
-          <form class="contact-form reveal">
+          <form
+            class="contact-form reveal"
+            action="https://formsubmit.co/Ericajmycloset@gmail.com"
+            method="POST"
+          >
+            <input type="hidden" name="_subject" value="New inquiry from The Erica Edit website" />
+            <input type="hidden" name="_captcha" value="false" />
+            <input type="hidden" name="_template" value="table" />
+            <input type="hidden" name="_next" value="https://tesvm.github.io/organized-by-erica/#contact" />
             <label>
               Name
-              <input type="text" name="name" placeholder="Your full name" />
+              <input type="text" name="name" placeholder="Your full name" required />
             </label>
             <label>
               Email
-              <input type="email" name="email" placeholder="you@example.com" />
+              <input type="email" name="email" placeholder="you@example.com" required />
             </label>
             <label>
               Phone
-              <input type="tel" name="phone" placeholder="(000) 000-0000" />
+              <input type="tel" name="phone" placeholder="(000) 000-0000" required />
             </label>
             <label>
               Area of the home needing help
-              <input type="text" name="space" placeholder="Closet, pantry, kitchen, move-in, whole home..." />
+              <input
+                type="text"
+                name="space"
+                placeholder="Closet, pantry, kitchen, move-in, whole home..."
+                required
+              />
             </label>
             <label>
               Brief message
@@ -500,10 +513,11 @@
                 name="message"
                 rows="5"
                 placeholder="Tell me a little about your space, current challenges, and what kind of support you need."
+                required
               ></textarea>
             </label>
             <button class="button" type="submit">Send Inquiry</button>
-            <p class="form-note">Replace this form action with Formspree, Netlify Forms, or your preferred contact form service.</p>
+            <p class="form-note">After the first submission, FormSubmit may send a one-time activation email to Erica to confirm the form endpoint.</p>
           </form>
         </div>
       </section>
