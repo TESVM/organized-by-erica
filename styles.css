@@ -465,6 +465,15 @@ p {
   gap: 1rem;
 }
 
+.gallery-subhead {
+  margin: 2.5rem 0 1.5rem;
+}
+
+.video-grid {
+  display: grid;
+  gap: 1rem;
+}
+
 .gallery-card {
   overflow: hidden;
   border-radius: var(--radius);
@@ -473,20 +482,27 @@ p {
   box-shadow: var(--shadow);
 }
 
-.gallery-card img {
+.gallery-card img,
+.gallery-card video {
   height: 100%;
   min-height: 260px;
+  width: 100%;
   object-fit: cover;
   transition: transform 260ms ease;
 }
 
-.gallery-card:hover img {
+.gallery-card:hover img,
+.gallery-card:hover video {
   transform: scale(1.03);
 }
 
 .gallery-card figcaption {
   padding: 1rem 1.1rem 1.15rem;
   color: var(--muted);
+}
+
+.media-card video {
+  background: #211d1a;
 }
 
 .benefits article h3,
@@ -654,6 +670,10 @@ p {
   .gallery-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
     grid-auto-rows: 220px;
+  }
+
+  .video-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
   .gallery-tall {
