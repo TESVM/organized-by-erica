@@ -1,7 +1,7 @@
 :root {
-  --bg: #fbf7f2;
-  --surface: #fffdfa;
-  --surface-strong: #f3ebe3;
+  --bg: #ffffff;
+  --surface: #ffffff;
+  --surface-strong: #f7f3ee;
   --line: rgba(86, 71, 61, 0.12);
   --text: #2f2a27;
   --muted: #6b6058;
@@ -30,8 +30,8 @@ body {
   font-family: "Manrope", sans-serif;
   color: var(--text);
   background:
-    radial-gradient(circle at top left, rgba(234, 216, 210, 0.45), transparent 26%),
-    radial-gradient(circle at bottom right, rgba(183, 192, 173, 0.22), transparent 24%),
+    radial-gradient(circle at top left, rgba(234, 216, 210, 0.18), transparent 22%),
+    radial-gradient(circle at bottom right, rgba(183, 192, 173, 0.12), transparent 20%),
     var(--bg);
   line-height: 1.6;
 }
@@ -63,7 +63,7 @@ textarea {
 }
 
 .section-soft {
-  background: rgba(255, 253, 250, 0.78);
+  background: #faf8f5;
 }
 
 .eyebrow {
@@ -134,7 +134,7 @@ p {
 
 .button-outline {
   border-color: rgba(47, 42, 39, 0.15);
-  background: rgba(255, 255, 255, 0.75);
+  background: rgba(255, 255, 255, 0.96);
   color: var(--text);
 }
 
@@ -152,7 +152,7 @@ p {
   position: sticky;
   top: 0;
   z-index: 20;
-  background: rgba(251, 247, 242, 0.84);
+  background: rgba(255, 255, 255, 0.92);
   backdrop-filter: blur(18px);
   border-bottom: 1px solid rgba(86, 71, 61, 0.08);
 }
@@ -369,7 +369,7 @@ p {
   padding: 1.15rem 1.5rem;
   border: 1px solid var(--line);
   border-radius: 999px;
-  background: rgba(255, 255, 255, 0.72);
+  background: #ffffff;
   text-align: center;
   color: var(--muted);
 }
